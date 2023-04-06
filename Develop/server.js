@@ -22,3 +22,4 @@ app.use('/api', api)
 app.listen(PORT, () => {
     console.log('API server is ready on port ${PORT}!');
 })
+
