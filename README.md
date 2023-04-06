@@ -2,8 +2,6 @@
 As a small business owner I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.
 
 
-# SVG-logo-maker
-
 </br>
   
   ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg) 
@@ -12,40 +10,36 @@ As a small business owner I want to be able to write and save notes, so that I c
   
   ## Description
   
-  You can use this app to generate a new SVG logo for your business.
+  Through this app you can add and delete notes so you stay organized and keep track of the tasks you have to complete in your business.
   
   </br>
 
   ## Table of Content
 
-
-
-- [note-taker](#note-taker)
-- [SVG-logo-maker](#svg-logo-maker)
-  - [Description](#description)
-  - [Table of Content](#table-of-content)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Preview](#preview)
   - [License](#license)
   - [Contributing](#contributing)
   - [Test](#test)
-  - [Questions and Issues](#questions-and-issues)
-    - [GitHub repository](#github-repository)
-    - [Email me](#email-me)
 
   </br>
 
   ## Installation
   
-  To install this app download the file folder, or clone this repo to your preferred local directory.
+  To install this app clone the code into your preferred directory.  
   
   </br>
   
   ## Usage
+  Run the "npm start" command in yur terminal, and then run "http://localhost:3001/notes" in your browser. Or simply launch the app by following the link below. 
+  Enter a note title that you chose, and below it enter the notes that you need to take down. 
+  A save button will appear on the top right corner of the screen. Click it once you are finished taking the notes. This note will be saved in the left column.
+  You can access it any time you need. When you are done with it, click the bin icon, and the note will be deleted.
   
-  You can use this app through git bash, using the command line. cd into the develop folder, run "node index.js" command and answer the questions prompted.
-  For more watch [this video](https://drive.google.com/file/d/1IV0IzrsB1_SgINHGRSPFP9KZzBhAyfxA/view)
+  </br>
+  
+  ## Link
   
   </br>
   
@@ -65,18 +59,12 @@ As a small business owner I want to be able to write and save notes, so that I c
   All users, feel free to contribute to this project.
   
   </br>
-    
-  ## Test
-  
-  To test this app, follow the walk-through video above, download the file folder, or clone this repo to your preferred local directory.
-  
-  </br>
   
   ## Questions and Issues
   
   👇 For any questions or issues, feel free to contact me through the contact info provided below 👇
   
-  ### GitHub repository
+  ### GitHub account
   
   [odobashigenci](https://github.com/odobashigenci)
   
