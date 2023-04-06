@@ -19,7 +19,6 @@ As a small business owner I want to be able to write and save notes, so that I c
   ## Table of Content
 
 
-
 - [note-taker](#note-taker)
 - [SVG-logo-maker](#svg-logo-maker)
   - [Description](#description)
