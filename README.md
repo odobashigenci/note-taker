@@ -44,7 +44,7 @@ As a small business owner I want to be able to write and save notes, so that I c
   </br>
   
   ## Preview
-  ![Preview](develop/assets/logo.SVG.preview.png)
+  ![Preview](Develop/public/assets/pictures/preview.png)
   
   </br>
   
