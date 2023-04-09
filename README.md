@@ -1,16 +1,16 @@
-<h1 align="center"h1>note-taker</h1>
+<h1 align = "center"h1>note-taker</h1>
 
-As a small business owner I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.
+<p align = "center"> As a small business owner I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.</p>
 
 </br>
   
-  ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg) 
+  <p align = "center">![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)</p>
   
   </br>
   
   ## Description
   
-  Through this app you can add and delete notes so you stay organized and keep track of the tasks you have to complete in your business.
+  <p align = "center">Through this app you can add and delete notes so you stay organized and keep track of the tasks you have to complete in your business.</p>
   
   </br>
 
