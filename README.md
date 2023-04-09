@@ -73,6 +73,6 @@ As a small business owner I want to be able to write and save notes, so that I c
   
 <!--   [odobashigenci@gmail.com](mailto:odobashigenci@gmail.com) -->
 <!--   ![Email Badge](https://img.shields.io/badge/Email%20Me-odobashigenci%40gmail.com-d8bfd8) -->
-  [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odobashigenci@gmail.com)
+  [![General badge]][(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odobashigenci@gmail.com)
   
   </br>
