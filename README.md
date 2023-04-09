@@ -73,5 +73,6 @@ As a small business owner I want to be able to write and save notes, so that I c
   
   [odobashigenci@gmail.com](mailto:odobashigenci@gmail.com)
   ![Email Badge](https://img.shields.io/badge/Email%20Me-odobashigenci%40gmail.com-d8bfd8)
+  [![click here](https://img.shields.io/badge/Email%20Me)](mailto:odobashigenci@gmail.com)
   
   </br>
