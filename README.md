@@ -52,7 +52,7 @@
   
   <div align = "center">
   
-  To lunch the app click here  👉  [![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes
+  To lunch the app click here  👉  [![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes)
   
   </div>
 
@@ -83,7 +83,9 @@
   
   <p align = "center">All users, feel free to contribute to this project.
   
+  
   </br>
+ 
   
   <h2 align ="center">Questions and Issues</h2>
   
