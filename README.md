@@ -22,12 +22,12 @@
   
   <div align ="center">
   
-   [Installation](#installation)
-   [Usage](#usage)
-   [Preview](#preview)
-   [License](#license)
-   [Contributing](#contributing)
-   [Test](#test) 
+   -[Installation](#installation)
+   -[Usage](#usage)
+   -[Preview](#preview)
+   -[License](#license)
+   -[Contributing](#contributing)
+   -[Test](#test) 
   
   </div>
 
@@ -81,17 +81,13 @@
   
   <h2 align ="center">Contributing</h2>
   
-  <p align = "center">All users, feel free to contribute to this project.
-  
+  <p align = "center">All users, feel free to contribute to this project.</p>
   
   </br>
  
-  
   <h2 align ="center">Questions and Issues</h2>
   
   <p align = "center">👇 For any questions or issues, feel free to contact me through the contact info provided below 👇</p>
-  
-  </br>
   
   <h3 align ="center">GitHub account</h3>
   
@@ -101,9 +97,6 @@
   
   </div>
   
-  </br>
-
-  
   <h3 align ="center">Email me</h3>
   
   <div align ="center">
@@ -111,5 +104,3 @@
   [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odobashigenci@gmail.com)
   
   </div>
-  
-  </br>
