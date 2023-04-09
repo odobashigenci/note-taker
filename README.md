@@ -50,7 +50,11 @@
   
   <h2 align ="center">Link</h2>
   
-  <p align = "center">To lunch the app click here  👉  [![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes</p>
+  <div align = "center">
+  
+  To lunch the app click here  👉  [![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes
+  
+  </div>
 
   
   </br>
@@ -67,7 +71,11 @@
   
   <h2 align ="center">License</h2>
   
-  <p align = "center">This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)</p>
+  <div align = "center">
+  
+  This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
+
+  </div>
   
   </br>
   
