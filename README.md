@@ -4,11 +4,7 @@
 
   </br>
   
- <div style="text-align:center">
-
-![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
-
-</div>
+  ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg?style=centered)
   
   </br>
   
