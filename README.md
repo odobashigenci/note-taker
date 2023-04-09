@@ -40,7 +40,8 @@ As a small business owner I want to be able to write and save notes, so that I c
   </br>
   
   ## Link
-  [![click here](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes)
+<!--   [![click here](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes) -->
+[![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://note-taker-genci.herokuapp.com/notes)
   
   </br>
   
@@ -67,7 +68,8 @@ As a small business owner I want to be able to write and save notes, so that I c
   
   ### GitHub account
   
-  [odobashigenci](https://github.com/odobashigenci)
+<!--   [odobashigenci](https://github.com/odobashigenci) -->
+
   
   ### Email me
   
