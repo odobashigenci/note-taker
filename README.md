@@ -40,8 +40,7 @@ As a small business owner I want to be able to write and save notes, so that I c
   </br>
   
   ## Link
-  To lunch the app click here 👇 </br>
-  [![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes)
+  To lunch the app click here  👉  [![Heroku Badge](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes)
 
   
   </br>
