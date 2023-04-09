@@ -22,12 +22,12 @@
   
   <div align ="center">
   
-   -[Installation](#installation)
-   -[Usage](#usage)
-   -[Preview](#preview)
-   -[License](#license)
-   -[Contributing](#contributing)
-   -[Test](#test) 
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Preview](#preview)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Test](#test) 
   
   </div>
 
