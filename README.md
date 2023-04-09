@@ -48,13 +48,16 @@
   
   ## Preview
   
+  <div align = "center">
+  
   ![Preview](Develop/public/assets/pictures/preview.png)
+  
+  </div>
   
   </br>
   
   ## License
   
-  <div align = "center">
   
   This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
   
