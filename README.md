@@ -40,7 +40,7 @@ As a small business owner I want to be able to write and save notes, so that I c
   </br>
   
   ## Link
-  For live URL [![click here](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes)
+  Live URL -  [![click here](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes)
   
   </br>
   
