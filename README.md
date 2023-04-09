@@ -1,5 +1,5 @@
 # note-taker
-As a small business owner I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.
+<h1 style="text-aligh: center;"h1>As a small business owner I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.</h1>
 
 
 </br>
