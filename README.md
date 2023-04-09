@@ -34,13 +34,13 @@ As a small business owner I want to be able to write and save notes, so that I c
   ## Usage
   Run the "npm start" command in yur terminal, and then run "http://localhost:3001/notes" in your browser. Or simply launch the app by following the link below. 
   Enter a note title that you chose, and below it enter the notes that you need to take down. 
-  A save button will appear on the top right corner of the screen. Click it once you are finished taking the notes. This note will be saved in the left column.
-  You can access it any time you need. When you are done with it, click the bin icon, and the note will be deleted.
+  A save button will appear on the top right corner of the screen. Click it once you are finished taking the notes. This note will be saved in the left column,
+  and you can access it any time you need to. 
   
   </br>
   
   ## Link
-  [![click here](https://www.herokucdn.com/deploy/button.svg)](https://note-taker-genci.herokuapp.com/notes)
+  [![click here](https://www.herokucdn.com/button.svg)](https://note-taker-genci.herokuapp.com/notes)
   
   </br>
   
