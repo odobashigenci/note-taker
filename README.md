@@ -1,10 +1,12 @@
-<h1 align = "center"h1>note-taker</h1>
+  <h1 align = "center"h1>note-taker</h1>
 
-<p align = "center"> As a small business owner I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.</p>
+  <p align = "center"> As a small business owner I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to         complete.</p>
 
-</br>
+  </br>
   
-  <center>![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)</center>
+  <center>!
+  [License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
+  </center>
   
   </br>
   
