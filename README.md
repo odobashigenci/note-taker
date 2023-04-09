@@ -4,7 +4,7 @@
 
 </br>
   
-  <p align = "center">![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)</p>
+  <center>![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)<center>
   
   </br>
   
