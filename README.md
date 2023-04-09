@@ -5,9 +5,7 @@
   </br>
   
   <div align ="center">
-  
   ![License](https://img.shields.io/badge/License-MIT%20License-blue.svg)
-  
   </div>
   
   </br>
@@ -21,14 +19,12 @@
   <h2 align ="center">Table of Content</h2>
   
   <div align ="center">
-  
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Preview](#preview)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Test](#test)
-  
+   [Installation](#installation)
+   [Usage](#usage)
+   [Preview](#preview)
+   [License](#license)
+   [Contributing](#contributing)
+   [Test](#test) 
   </div>
 
   </br>
@@ -57,7 +53,9 @@
   
   <h2 align ="center">Preview</h2>
   
+  <div align ="center">
   ![Preview](Develop/public/assets/pictures/preview.png)
+  </div>
   
   </br>
   
@@ -77,21 +75,21 @@
   
   <p align = "center">👇 For any questions or issues, feel free to contact me through the contact info provided below 👇</p>
   
+  </br>
+  
   <h3 align ="center">GitHub account</h3>
   
-  <div align ="center">
-  
+  <div align ="center">  
   [Genci Odobashi](https://github.com/odobashigenci)
-  
   </div>
+  
+  </br>
 
   
   <h3 align ="center">Email me</h3>
   
   <div align ="center">
-  
   [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:odobashigenci@gmail.com)
-  
   </div>
   
   </br>
